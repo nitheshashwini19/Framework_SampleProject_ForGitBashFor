@@ -7,7 +7,7 @@ public class createOrganization
 	@Test
 	public void  createOrg()
 	{
-		System.out.println("execute createOrganization");
+		System.out.println("execute createOrganization    @@@");
 		
 	}
 	public void  modifyOrg()
