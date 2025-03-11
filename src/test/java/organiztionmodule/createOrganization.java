@@ -10,6 +10,11 @@ public class createOrganization
 		System.out.println("execute createOrganization");
 		
 	}
+	public void  deleteOrg()
+	{
+		System.out.println("execute deleteOrganization");
+		
+	}
 
 
 }
